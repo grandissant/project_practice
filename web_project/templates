@@ -1,18 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Data Entry Form</title>
-</head>
-<body>
-    <form action="/submit" method="post">
-        <label for="id">사용자 ID:</label>
-        <input type="text" id="id" name="id"><br><br>
 
-        <label for="name">이름:</label>
-        <input type="text" id="name" name="name"><br><br>
-
-        <input type="submit" value="Submit">
-    </form>
-</body>
-</html>
